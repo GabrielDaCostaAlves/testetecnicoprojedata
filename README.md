@@ -31,4 +31,4 @@ O projeto foi criado como parte de um teste prático de programação. O objetiv
    ```bash
    git clone https://github.com/GabrielDaCostaAlves/testetecnicoprojedata.git
 
-**Agradeço imensamente A oportunidade!**
+**Agradeço imensamente a oportunidade!**
